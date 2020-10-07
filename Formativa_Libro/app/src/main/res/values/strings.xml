@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formativa_Libro</string>
+    <string name="titulo">BIBLIOTECA NACIONAL</string>
+    <string name="subtitulo">Añadir Libro</string>
+    <string name="codigo">CODIGO</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="autor">AUTOR</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="cancelar">CANCELAR</string>
+</resources>
